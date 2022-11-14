@@ -1,0 +1,12 @@
+pytest==7.2.0
+pytest-cov==4.0.0
+PyYAML==4.2b4
+requests==2.20.1
+six==1.16.0
+sqlparse==0.4.2
+texttable==0.9.1
+tomli==2.0.1
+tzdata==2022.2
+urllib3==1.24.3
+websocket-client==0.59.0
+Werkzeug==2.2.2
